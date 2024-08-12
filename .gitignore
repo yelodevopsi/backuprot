@@ -1,0 +1,5 @@
+# Ignore the sql/ directory
+sql/
+
+# Ignore all .tgz files in the webfolder/ directory
+webfolder/*.tgz
